@@ -1,2 +1,2 @@
 # Quiz-mangement-system
-Language: fontend-java backend-sql
+Language: frontend-Java / Backend-sql
